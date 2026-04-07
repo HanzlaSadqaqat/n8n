@@ -59,3 +59,6 @@ packages/cli/src/commands/export/outputs
 .claude/plans/
 lefthook-local.yml
 .playwright-mcp
+temp_auto_push.bat
+temp_interactive_push.bat
+branch_structure.json
